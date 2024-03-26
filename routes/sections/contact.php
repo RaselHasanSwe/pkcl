@@ -12,7 +12,7 @@
             Address : House# 97, Road# 11/A, Dhanmondi, <br/>Dhaka - 1209, Bangladesh. <br/>
             info@pakizaknit.com 
           </div>
-          <div class="row contactAddress">
+          <div class="row contactAddress justify-content-center">
              <div class="col-4 col-lg-4">
                 <span>Rakibul Islam Khan</span>
                 <span style="display:block">Managing Director </span>

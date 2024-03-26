@@ -65,9 +65,7 @@
                           <li>
                               <a class="hovr" href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a>
                           </li>
-                          <li>
-                              <a class="hovr" href="javascript:void(0);"><i class="fab fa-twitter"></i></a>
-                          </li>
+                         
                           <li>
                               <a class="hovr" href="javascript:void(0);"><i class="fab fab fa-instagram"></i></a>
                           </li>

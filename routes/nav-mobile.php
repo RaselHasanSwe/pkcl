@@ -40,11 +40,6 @@
                 </li>
                 <li>
                   <a href="javascript:void(0);" class="hover"
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                </li>
-                <li>
-                  <a href="javascript:void(0);" class="hover"
                     ><i class="fab fa-linkedin-in"></i
                   ></a>
                 </li>

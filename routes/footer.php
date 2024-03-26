@@ -8,9 +8,6 @@
               ></a>
             </li>
             <li>
-              <a href="javascript:void(0);"><i class="fab fa-twitter"></i></a>
-            </li>
-            <li>
               <a href="javascript:void(0);"
                 ><i class="fab fa-google-plus-g"></i
               ></a>
