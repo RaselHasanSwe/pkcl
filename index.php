@@ -25,7 +25,7 @@
     <?php include 'routes/sections/banner.php'?>
     <!-- banner end -->
     <!-- End Banner -->
-
+ 
 
     <!-- sust start -->
     <?php include 'routes/sections/product_features.php'?>
@@ -50,6 +50,11 @@
     <!-- MODALS -->
     <!-- Material Certify -->
     <?php include 'routes/sust-modal/sus6.php'?>
+    <?php include 'routes/sust-modal/sus5.php'?>
+    <?php include 'routes/sust-modal/sus4.php'?>
+    <?php include 'routes/sust-modal/sus3.php'?>
+    <?php include 'routes/sust-modal/sus2.php'?>
+    <?php include 'routes/sust-modal/sus1.php'?>
 
 
 

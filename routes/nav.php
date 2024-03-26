@@ -21,26 +21,26 @@
                                   <ul>
                                       <li>
                                           <i class="lni-angle-double-right right-arrow"></i><a
-                                              class="dropdown-item scroll" href="#home">Production</a>
+                                              class="dropdown-item scroll" href="#product_features">Production</a>
                                       </li>
                                       <li>
                                           <i class="lni-angle-double-right right-arrow"></i><a
-                                              class="dropdown-item scroll" href="#tech">Certification</a>
+                                              class="dropdown-item scroll" href="#certification">Certification</a>
                                       </li>
                                       <li>
                                           <i class="lni-angle-double-right right-arrow"></i><a
-                                              class="dropdown-item scroll" href="#sectors">Buyers</a>
+                                              class="dropdown-item scroll" href="#buyers">Buyers</a>
                                       </li>
                                       <li>
                                           <i class="lni-angle-double-right right-arrow"></i><a
-                                              class="dropdown-item scroll" href="#team">Sister Concerns</a>
+                                              class="dropdown-item scroll" href="#sister_concerns">Sister Concerns</a>
                                       </li>
                                   </ul>
                               </div>
                           </div>
                       </div>
                       <a class="nav-link scroll" href="#products">Products</a>
-                      <a class="nav-link scroll1" href="#sust">Sustainability</a>
+                      <a class="nav-link scroll" href="#sust">Sustainability</a>
                       <a class="nav-link" target="_blank" href="assets/files/PFD-BD_Company_Profile.pdf">Company
                           Profile</a>
 

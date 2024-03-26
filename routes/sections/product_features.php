@@ -1,5 +1,5 @@
 <?php include 'molecules/production-strength.php'?>
-<section class="about about-us" id="sust">
+<section class="about about-us" id="product_features">
     <div class="container">
         <!--Heading-->
         <div class="row">

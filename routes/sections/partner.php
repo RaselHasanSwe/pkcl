@@ -1,4 +1,4 @@
-<section class="about-us" id="about" style="background: #fff;">
+<section class="about-us" id="sister_concerns" style="background: #fff;">
     <div class="container ">
         <h2 class="wow fadeInDown section-title" data-wow-delay="300ms">Our <span>Sister Concerns</span></h2>
         <p class="wow fadeInDown sub-text" data-wow-delay="300ms">We work in cooperation with some responsible

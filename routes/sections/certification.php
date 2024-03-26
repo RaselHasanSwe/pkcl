@@ -1,4 +1,4 @@
-<section class="about-us" id="about" style="background: #fff;">
+<section class="about-us" id="certification" style="background: #fff;">
     <div class="container ">
         <h2 class="wow fadeInDown section-title" data-wow-delay="300ms">Our <span>Certification</span>
         </h2>
